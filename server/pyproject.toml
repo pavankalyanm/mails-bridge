@@ -1,7 +1,7 @@
 [project]
-name = "gmail-mcp-server"
+name = "mails-bridge"
 version = "0.2.0"
-description = "Multi-account Gmail MCP server for Claude Code (IMAP/SMTP + App Passwords)"
+description = "Multi-account email MCP server for Claude — supports Gmail, Outlook, Yahoo, iCloud, and any IMAP/SMTP provider"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
